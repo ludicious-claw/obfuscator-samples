@@ -1,0 +1,1 @@
+A collection of Obfuscator samples in lua
